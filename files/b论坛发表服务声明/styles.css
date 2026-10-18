@@ -1,0 +1,267 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:689px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3070 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u3071_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:389px;
+  height:783px;
+}
+#u3071 {
+  border-width:0px;
+  position:absolute;
+  left:300px;
+  top:100px;
+  width:389px;
+  height:783px;
+}
+#u3071_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3072_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:341px;
+  height:595px;
+}
+#u3072 {
+  border-width:0px;
+  position:absolute;
+  left:325px;
+  top:195px;
+  width:341px;
+  height:595px;
+}
+#u3072_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3073_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:339px;
+  height:41px;
+}
+#u3073 {
+  border-width:0px;
+  position:absolute;
+  left:326px;
+  top:216px;
+  width:338px;
+  height:40px;
+}
+#u3073_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3074 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u3075_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:17px;
+  height:17px;
+}
+#u3075 {
+  border-width:0px;
+  position:absolute;
+  left:336px;
+  top:227px;
+  width:17px;
+  height:17px;
+}
+#u3075_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3076 {
+  border-width:0px;
+  position:absolute;
+  left:336px;
+  top:218px;
+  width:35px;
+  height:35px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3077_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:88px;
+  height:20px;
+}
+#u3077 {
+  border-width:0px;
+  position:absolute;
+  left:381px;
+  top:226px;
+  width:87px;
+  height:19px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#1E1E1E;
+}
+#u3077_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:85px;
+  white-space:nowrap;
+}
+#u3078_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:318px;
+  height:398px;
+}
+#u3078 {
+  border-width:0px;
+  position:absolute;
+  left:336px;
+  top:277px;
+  width:317px;
+  height:397px;
+  color:#1E1E1E;
+  line-height:18px;
+}
+#u3078_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:317px;
+  word-wrap:break-word;
+}
+#u3079_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:146px;
+  height:17px;
+}
+#u3079 {
+  border-width:0px;
+  position:absolute;
+  left:365px;
+  top:682px;
+  width:145px;
+  height:16px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u3079_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:145px;
+  white-space:nowrap;
+}
+#u3080 {
+  border-width:0px;
+  position:absolute;
+  left:511px;
+  top:726px;
+  width:69px;
+  height:16px;
+}
+#u3080_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:51px;
+  word-wrap:break-word;
+}
+#u3080_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u3081 {
+  border-width:0px;
+  position:absolute;
+  left:370px;
+  top:726px;
+  width:62px;
+  height:16px;
+}
+#u3081_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:44px;
+  word-wrap:break-word;
+}
+#u3081_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
